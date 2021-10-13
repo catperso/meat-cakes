@@ -1,0 +1,29 @@
+ul {
+  list-style-position: inside;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 25%;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  font-size: 69px;
+  font-weight: bolder;
+  font-family: serif;
+  color: rgb(48, 161, 63);
+}
